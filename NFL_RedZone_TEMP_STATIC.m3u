@@ -1,39 +1,65 @@
 #EXTM3U
 
-##### TIER 1 – MOST RELIABLE / LOW BUFFER #####
-
-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 10
-https://e3.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=4DqSuJguNu2ytlQROusKFg&expires=1766909623&user_id=MGtDQkhWM21iNEp0S2xqRVRDNFVkTFJKRGx2RkNXb3ZINVFPRmwyeQ==
-
-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 14
-https://v1.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=zSiuyWfKvlX_h1607RxOXg&expires=1766916755&user_id=czFueVJIek1ITGY3NTZnTUJ6d1E1MWNyZ29DQ0RQUnFsQXNFR01Ieg==
-
-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 15
-https://v12.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=IAtob4dnKqRC6ZouUR2tmw&expires=1766916764&user_id=czFueVJIek1ITGY3NTZnTUJ6d1E1MWNyZ29DQ0RQUnFsQXNFR01Ieg==
-
-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 16
-https://v16.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=1SdvdxzwY2Hz8uC2l5MVlQ&expires=1766916556&user_id=TVdvUmpJNWdKbUxJcHN6bExhQlpHcnhXeVJGUFRRQVNpa24xMXZxcg==
-
-##### TIER 2 – WORKS, MAY BUFFER #####
-
-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 17
-https://v16.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=CoEGj9OdEi6dI_KjmeOhnA&expires=1766919960&user_id=VU9jVzQ3Sk9xTTNzVUJ2eE9lMHBLNFd4NW9UQUU1WFBkaFZmSjdtNA==
-
-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 11
-https://e4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=FYR99XTVBZ6uF_V0hRw2Yw&expires=1766909632&user_id=MGtDQkhWM21iNEp0S2xqRVRDNFVkTFJKRGx2RkNXb3ZINVFPRmwyeQ==
-
-##### TIER 3 – INCONSISTENT #####
-
-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 12
-https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
-
-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 3
-http://143.244.60.30/NFL_RedZone/index.m3u8
-
-##### TIER 4 – KEEP BUT BURY #####
-
-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 1
+# --- PRIMARY (1–6) ---
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 1 (PRIMARY)
 https://tvpass.org/live/NFLRedZone/hd
 
-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 2
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 2 (PRIMARY)
 https://tvpass.org/live/NFLRedZone/sd
+
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 3 (PRIMARY)
+http://143.244.60.30/NFL_RedZone/index.m3u8
+
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 4 (PRIMARY)
+http://cord-cutter.net:8080/bn80NG/909467/159118
+
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 5 (PRIMARY)
+http://cord-cutter.net:8080/bn80NG/909467/159119
+
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 6 (PRIMARY)
+http://cord-cutter.net:8080/bn80NG/909467/159120
+
+
+# --- BACKUP (7–10) ---
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 7 (BACKUP)
+http://cord-cutter.net:8080/bn80NG/909467/208830
+
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 8 (BACKUP)
+http://nocable.cc:8080/91161088/91161088/208830
+
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 9 (BACKUP)
+https://a1xs.vip/40000033
+
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 10 (BACKUP)
+https://e3.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
+
+
+# --- LAST RESORT (11–13) ---
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 11 (LAST RESORT)
+https://e4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 12 (LAST RESORT)
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 13 (LAST RESORT)
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyIjuPSfdEtru4SRomrzH_7I/.m3u8
+
+
+# --- DESPERATION MODE (14–19) ---
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 14 (DESPERATION)
+https://v1.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 15 (DESPERATION)
+https://v12.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 16 (DESPERATION)
+https://v16.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 17 (DESPERATION)
+https://v16.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 18 (DESPERATION)
+https://v17.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-hz-us.png",NFL REDZONE 19 (DESPERATION)
+https://v4.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
